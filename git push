@@ -1,0 +1,194 @@
+[33mcommit ea97bfbf54954e885ac7cb38c00c54c66629240f[m[33m ([m[1;36mHEAD -> [m[1;32mbranchA[m[33m)[m
+Author: Anadhi <asharma9@albany.edu>
+Date:   Tue Oct 3 18:09:32 2023 +0000
+
+    adding new file
+
+[33mcommit 79656ab5dc79305816404265ac870734096adbb9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: ce9b18a 86003b3
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Fri Jul 28 14:55:53 2023 -0600
+
+    Merge pull request #13 from jukent/jukent-patch-1
+    
+    Add actions to sandbox for warning and closing stale issues.
+
+[33mcommit 86003b3686f90e0a944d3d1382606470a529014f[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Thu Jul 27 14:37:25 2023 -0600
+
+    Update .github/workflows/stale.yml
+    
+    Co-authored-by: Brian Rose <brose@albany.edu>
+
+[33mcommit 16f11bdabc497e075efac0ba1f929f9fd164fd2d[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Thu Jul 27 14:07:47 2023 -0600
+
+    Update stale.yml to rm tag
+
+[33mcommit c4d6a5055604ad669d18dc6d624e1dbfd4929f6a[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Thu Jul 27 14:07:06 2023 -0600
+
+    rm tag from comment.yml
+
+[33mcommit 330a26049ec403774726bd47ea70c50a2efa8d4b[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Thu Jul 27 10:19:26 2023 -0600
+
+    Update comment.yml
+
+[33mcommit 4ef5a16d88a79f1624d89714fee4ff349f745de8[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Thu Jul 27 10:18:50 2023 -0600
+
+    Create comment.yml
+
+[33mcommit 86fa4675c030af50ca505fe16ecc99d1d20ff037[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Thu Jul 27 10:06:37 2023 -0600
+
+    Update .github/workflows/stale.yml
+    
+    Co-authored-by: Brian Rose <brose@albany.edu>
+
+[33mcommit a529d39497a23d59a920d65e0f8021688be6fbc8[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Thu Jul 27 10:03:00 2023 -0600
+
+    Update .github/workflows/stale.yml
+    
+    Co-authored-by: Brian Rose <brose@albany.edu>
+
+[33mcommit eb0c8fdb14b644f28a48e50d2468c4c03630a2a9[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Wed Jul 26 14:18:47 2023 -0600
+
+    use stale action
+
+[33mcommit f7dd8eac20a6210109eae8214a890bcab1290ddf[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Wed Jul 26 14:12:25 2023 -0600
+
+    Delete comment.yml
+
+[33mcommit bfd2129245467148a8cf019e1b1999e61890b6e1[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Wed Jul 26 10:43:49 2023 -0600
+
+    Create close.yml
+
+[33mcommit a47b9c7d9e382598c264b79625496934415b7e4f[m
+Author: Julia Kent <46687291+jukent@users.noreply.github.com>
+Date:   Wed Jul 26 10:39:56 2023 -0600
+
+    Create comment.yml
+
+[33mcommit ce9b18aa2bbda5c79f7a17ccb5e17f488b3912bf[m
+Author: Robert Ford <50349951+r-ford@users.noreply.github.com>
+Date:   Mon Jul 10 16:27:14 2023 -0400
+
+    Remove hello.py to match tutorial
+
+[33mcommit b63f66aa628d23881ac444276babf6fa8369f0d9[m
+Merge: 007a6f3 835286e
+Author: clyne <clyne@ucar.edu>
+Date:   Mon Jun 5 10:56:42 2023 -0600
+
+    Merge pull request #8 from HossanAlamgir/branchA
+    
+    Adding a new file
+
+[33mcommit 835286e90624b54b5b3b7ba6836211a9237b8b0c[m
+Author: Alamgir Hossan <alamgirhossan371@gmail.com>
+Date:   Thu Jun 1 14:25:59 2023 -0400
+
+    Adding a new file
+
+[33mcommit 007a6f3a960feb368aa524cdc7787bad02c9d708[m
+Merge: 1f734ef 4ca4619
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Tue Sep 20 15:15:56 2022 -0400
+
+    Merge pull request #5 from ktyle/main
+    
+    Remove hello.py and undo the typo fix in sample.txt
+
+[33mcommit 4ca4619e5fd4fd1b4fdc77ea22d5baad7edcaded[m
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Tue Sep 20 19:10:48 2022 +0000
+
+    Remove hello.py and undo the typo fix in sample.txt
+
+[33mcommit 1f734ef0a9173c7c976ac69df5650ea2c538acdd[m
+Merge: 829f109 88e7212
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Mon Sep 19 17:17:18 2022 -0400
+
+    Merge pull request #3 from r-ford/branchA
+    
+    Typo and `hello.py`
+
+[33mcommit 829f109c096b66a14be3a1db008c174b2b7bf944[m
+Merge: 35fcbd9 d159257
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Mon Sep 19 17:16:52 2022 -0400
+
+    Merge pull request #2 from jukent/branchA
+    
+    adding new file
+
+[33mcommit 88e72124fb094b382f981775c9ed2b430c77cace[m
+Author: Robert Ford <50349951+r-ford@users.noreply.github.com>
+Date:   Thu Apr 28 20:56:57 2022 -0400
+
+    A hello file
+
+[33mcommit d945e8c059cd5c684c4360ef4644a26cb46a4b5d[m
+Author: Robert Ford <50349951+r-ford@users.noreply.github.com>
+Date:   Thu Apr 28 20:32:02 2022 -0400
+
+    Fix the typo
+
+[33mcommit d15925714d714637aa3bfbb407e94f1a4d63a792[m
+Author: Julia Kent <jkent@ucar.edu>
+Date:   Thu Apr 14 16:31:47 2022 -0600
+
+    adding new file
+
+[33mcommit 35fcbd991f911e170df550db58f74a082ba18b50[m
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Thu Jan 13 11:29:40 2022 -0500
+
+    Close docstring quote on sample.py
+
+[33mcommit e56ea58071f150ec00904a50341a672456cbcb8f[m
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Tue Jan 11 14:15:31 2022 -0500
+
+    Create sample.md
+
+[33mcommit f98d05e312d19a84b74c45402a2904ab94d86e45[m
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Tue Jan 11 13:58:09 2022 -0500
+
+    Create sample.py
+
+[33mcommit beb6436ae2ce37068641f48956ff65d44107ce8b[m
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Mon Jan 10 21:51:47 2022 -0500
+
+    Create sample.txt
+
+[33mcommit b7b17a5f79516ebbad4ffef62505ce1989fd0ed1[m
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Mon Jan 10 21:09:16 2022 -0500
+
+    Create README.md
+
+[33mcommit 58f1c0d87fc1e9ff1e0495671dac91f618e018d2[m
+Author: Kevin Tyle <ktyle@albany.edu>
+Date:   Mon Jan 10 21:07:08 2022 -0500
+
+    Create LICENSE
